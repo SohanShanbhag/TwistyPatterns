@@ -1,3 +1,5 @@
+[Back to Main Menu](README.md)
+
 The 2x2x2 Rubik's Cube - Beginner's Solution
 2x2x2 Rubik's CubePocket CubeThe 2x2x2 Rubik's Cube (also called as Pocket Cube or Mini Cube) is the two layered version of a Rubik's Cube. This puzzle was invented by [Rubik Erno](https://ruwix.com/the-rubiks-cube/the-inventor-rubik-erno-1974-budapest-hungary/) is the two layered version of a Rubik's Cube. This puzzle was invented by Rubik Erno before the 80s and was patented on March 29, 1983. At first sight it may seem to be a simple puzzle but it's good to know that it has more than 3,6 million possible permutations so it's impossible to solve it by just randomly twisting the faces.) before the 80s and was patented on March 29, 1983. At first sight it may seem to be a simple puzzle but it's good to know that it has more than 3,6 million possible permutations so it's impossible to solve it by just randomly twisting the faces.
 
