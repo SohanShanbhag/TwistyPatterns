@@ -1,6 +1,11 @@
+[Back to Main Menu](README.md)
+
 Pretty Rubik´s Cube patterns with algorithms
+
 Are you tired of solving your [Rubik's Cube](https://ruwix.com/the-rubiks-cube/) always the same way and you are looking for a new challenge?
+
 Need online help? Use this [Online Cube Simulator](https://ruwix.com/online-puzzle-simulators/)
+
 If you've got bored solving the Rubik's Cube always the same way and you're looking for a new challenge, try to reach one of these patterns without watching the algorithms supplied.
 
 1. [The Superflip](https://ruwix.com/the-rubiks-cube/gods-number/): U R2 F B R B2 R U2 L B2 R U' D' R2 F R' L B2 U2 F2
