@@ -70,6 +70,4 @@ Examples
 2. Yellow on the sides in the front layer: (R' D' R D)x2 U' (R' D' R D)x4
 3. Three corners need to be turned counterclockwise (R' D' R D)x2 U' (R' D' R D)x2 U' (R' D' R D)x2
 
-For a more detailed explanation of this step with animated examples read about the orientation of last layer corners here.
-
 Congratulations, you have solved your 2x2 Cube!
