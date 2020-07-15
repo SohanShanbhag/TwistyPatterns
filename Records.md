@@ -1,3 +1,5 @@
+[Back to Main Menu](README.md)
+
 World's Fastest
 The current record held for the fastest solve of the Rubik’s Cube is currently 3.47 seconds by Yusheng Du, who beat the record of Feliks Zemdegs by 0.75 seconds. A robot, however, has solved the Rubik’s Cube in an incredible 0.38 seconds!!
 
